@@ -1,0 +1,6 @@
+Ticket #2
+Estudiante: Juan
+Estado final: COMPLETADO
+Urgente: No
+Notas:
+  Sin notas registradas.

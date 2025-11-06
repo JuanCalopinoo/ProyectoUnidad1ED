@@ -1,0 +1,6 @@
+Ticket #1
+Estudiante: Carlos
+Estado final: COMPLETADO
+Urgente: No
+Notas:
+  Sin notas registradas.
